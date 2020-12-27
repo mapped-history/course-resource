@@ -3,11 +3,11 @@
             "name": "discovery_america",
             "displayableName": "Открытие Америки",
             "description": "История открытия нового материка и этапы его освоения",
-            "coverLandscapeURL" : "https://mappedhistory.net/courses/images/cover_landscape_3x_xn9bc4.png",
-            "coverPortraitURL" : "https://mappedhistory.net/courses/images/cover_portrait_3x_xqkddk.png",
+            "coverLandscapeURL" : "https://mappedhistory.net/app/images/cover_landscape_3x_xn9bc4.png",
+            "coverPortraitURL" : "https://mappedhistory.net/app/images/cover_portrait_3x_xqkddk.png",
             "sourceContent": {
-              "coursePath" : "https://mappedhistory.net/courses/ru/discovery_america.json",
-              "stylePath" : "https://mappedhistory.net/courses/styles/discovery_america.mapcss",
+              "coursePath" : "https://mappedhistory.net/app/ru/discovery_america.json",
+              "stylePath" : "https://mappedhistory.net/app/styles/discovery_america.mapcss",
               "mapPath" : "", 
             },
             "metadata": { 

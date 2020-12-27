@@ -1,5 +1,5 @@
 marker {
-	pin-icon: "https://res.cloudinary.com/dyjgbk1ve/image/upload/v1607284492/Courses/pins/pin_empty.png";
+	pin-icon: "https://mappedhistory.net/courses/images/pin_empty.png";
 	icon-width: 40;
 	icon-height: 48;
 	position: "pin";
@@ -9,15 +9,15 @@ marker {
 }
 
 #pin_start {
-	pin-icon: "https://res.cloudinary.com/dyjgbk1ve/image/upload/v1607284491/Courses/pins/pin_start.png";
+	pin-icon: "https://mappedhistory.net/courses/images/pin_start.png";
 }
 
 #pin_anchor {
-	pin-icon: "https://res.cloudinary.com/dyjgbk1ve/image/upload/v1607284491/Courses/pins/pin_anchor.png";
+	pin-icon: "https://mappedhistory.net/courses/images/pin_anchor.png";
 }
 
 #pin_compass {
-	pin-icon: "https://res.cloudinary.com/dyjgbk1ve/image/upload/v1607284492/Courses/pins/pin_compass.png";
+	pin-icon: "https://mappedhistory.net/courses/images/pin_compass.png";
 }
 
 arrow {
