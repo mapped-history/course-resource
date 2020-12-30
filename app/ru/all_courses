@@ -1,5 +1,4 @@
-{
-  "courses" : [ {
+[ {
     "coverLandscapeURL" : "https://mappedhistory.net/app/images/cover_landscape_3x_xn9bc4.png",
     "coverPortraitURL" : "https://mappedhistory.net/app/images/cover_portrait_3x_xqkddk.png",
     "description" : "История открытия нового материка и этапы его освоения",
@@ -173,4 +172,3 @@
     },
     "name" : "discovery_antarctica"
   } ]
-}
