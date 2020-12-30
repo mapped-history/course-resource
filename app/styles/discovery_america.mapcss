@@ -1,5 +1,5 @@
 marker {
-	pin-icon: "https://mappedhistory.net/courses/images/pin_empty.png";
+	pin-icon: "https://mappedhistory.net/app/images/pin_empty.png";
 	icon-width: 40;
 	icon-height: 48;
 	position: "pin";
@@ -9,21 +9,21 @@ marker {
 }
 
 #pin_start {
-	pin-icon: "https://mappedhistory.net/courses/images/pin_start.png";
+	pin-icon: "https://mappedhistory.net/app/images/pin_start.png";
 }
 
 #pin_anchor {
-	pin-icon: "https://mappedhistory.net/courses/images/pin_anchor.png";
+	pin-icon: "https://mappedhistory.net/app/images/pin_anchor.png";
 }
 
 #pin_compass {
-	pin-icon: "https://mappedhistory.net/courses/images/pin_compass.png";
+	pin-icon: "https://mappedhistory.net/app/images/pin_compass.png";
 }
 
 arrow {
 	color: #000000;
 	width: 10;
-	arrow-image: "Courses/discovery_america/images/default_arrow.png";
+	arrow-image: "";
 }
 
 region {
