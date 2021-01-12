@@ -8,7 +8,7 @@
             "sourceContent": {
               "coursePath" : "https://mappedhistory.net/app/ru/discovery_america.json",
               "stylePath" : "https://mappedhistory.net/app/styles/discovery_america.mapcss",
-              "mapPath" : "", 
+              "mapPath" : ""
             },
             "metadata": { 
               "apiVersion": 1,
