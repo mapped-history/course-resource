@@ -7,7 +7,7 @@
     "sourceContent": {
       "coursePath" : "https://mappedhistory.net/app/ru/discovery_america.json",
       "stylePath" : "https://mappedhistory.net/app/styles/discovery_america.mapcss",
-      "mapPath" : "", 
+      "mapPath" : ""
     },
     "keywords" : [ "Франсиско Писарро", "Христофор Колумб", "Новый свет", "Америка", "Куба", "1492", "открытие", "конкистадоры", "Эрнан Кортес", "Мексика", "инки", "ацтеки", "Гаити" ],
     "lessons" : [ {
