@@ -8,13 +8,19 @@
             "sourceContent": {
               "coursePath" : "https://mappedhistory.net/app/ru/discovery_america.json",
               "stylePath" : "https://mappedhistory.net/app/styles/discovery_america.mapcss",
+              "images" : [
+                "https://mappedhistory.net/app/images/pin_empty.png",
+                "https://mappedhistory.net/app/images/pin_start.png",
+                "https://mappedhistory.net/app/images/pin_anchor.png",
+                "https://mappedhistory.net/app/images/pin_compass.png"
+              ],
               "mapPath" : ""
             },
             "metadata": { 
               "apiVersion": 1,
               "created": "2019/10/28 13:22:00",
-              "lastUpdate": "2020/12/06 23:00:00",
-              "size": 80000,
+              "lastUpdate": "2023/04/28 03:50:00",
+              "size": 80003,
               "appStoreId": "com.course.discovery_america",
               "googlePlayId": "com.course.discovery_america"
             },
