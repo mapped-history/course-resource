@@ -9,12 +9,21 @@
     "bubble-text-color": "#000000"
   },
   "pin_start": {
+    "icon-width": 40,
+    "icon-height": 48,
+    "position": "pin",
     "pin-icon": "https://mappedhistory.net/app/images/pin_start.png"
   },
   "pin_anchor": {
+    "icon-width": 40,
+    "icon-height": 48,
+    "position": "pin",
     "pin-icon": "https://mappedhistory.net/app/images/pin_anchor.png"
   },
   "pin_compass": {
+    "icon-width": 40,
+    "icon-height": 48,
+    "position": "pin",
     "pin-icon": "https://mappedhistory.net/app/images/pin_compass.png"
   },
   "arrow": {
